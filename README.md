@@ -10,22 +10,22 @@ This section outlines the prerequisites and installation of the open-source Help
 
 
 
-<h2>Environments and Technologies Used</h2>
+<h2>Environments and Technologies Used:</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
 
-<h2>Operating Systems Used </h2>
+<h2>Operating Systems Used: </h2>
 
 - Windows 10</b> (21H2)
 - Mac OSX High Sierra
 
-<h2>List of Prerequisites</h2>
+<h2>Prerequisite:</h2>
 
 - Enable Internet Information Services (IIS)
 
-<h2>Installation Steps</h2>
+<h2>Installation Steps:</h2>
 
 <p>
 <img src="https://imgur.com/HANbNid.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
